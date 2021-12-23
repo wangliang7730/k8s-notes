@@ -1,0 +1,114 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="591px" height="341px" viewBox="-0.5 -0.5 591 341" content="&lt;mxfile&gt;&lt;diagram id=&quot;DbrOrF9Um1JfmXE6zwQH&quot; name=&quot;第 1 页&quot;&gt;5VjBctsgEP0aHeuxBJHiY52k6aGdyUw60/ZIpI1EgkBFyJb69QUDtoiSTKZtrE56sdm3oIX3dhfZETqr+0tJmuqzKIBFybLoI3QeJclqtdSfBhgskGaxBUpJCwuNgGv6Exzo1pUdLaANJiohmKJNCOaCc8hVgBEpxTacditYGLUhJUyA65ywKfqVFqqy6GmSHfCPQMvKR47TlfXUxE92J2krUojtCEIXETqTQig7qvszYIY7z4td9+EJ735jErh6yYJTtw01+LNJ0fECjHsZobWQqhKl4IR9EqLRYKzBO1BqcKqQTgkNVapmzqsjy+GbWb/Aq8wD33dAgpEHznsXwlrD2LoCSWtQIB1YkLbabck8f3pEd+pWdDJ3p0hcVhBZgpuFLQRFoK2j5RKEDigHPUECI4puQqmJy5hyP+9Aqh44Xh/n2O1lQ1jnHpqLenHXbYD33aLe8Bsh7hckzzXzarGFm4kmOksaMzSJakhZ3wqurp3fcNI2JKe8/GIlMpQpcuNTEzt7n5IxtsCVaKmigmuIwa0KZXyS5g1IBf2zFPo6d0nuqjz29vZQMwl2WDWql3T556SjCelRkjJlueIBvemPzpTbWp9KvSOMlpqQ93rGjpO9V49K8/2cdg3IlrbKR9J7tMHsyrciK8Yz6uqvgNfpWEG3eqZToexFraq9B5VXfnVPlW2LWZw523XFvX0IZYxhZDyM86IuiKddEM3VBeN4IpzZhE93Lrj+WodaBvz9S8KOtUQjLePFEqOjaZnOpmVyfC0f539cR2PeExwwj7InqP+bGfK7Mp7MJSOe445sQW6oZuNt35EPXn0QPuIVeTKHrDlpdHmTNy7rw1efo+qazqEr1ISy/0xVnL2eqto8/Lrf+UZ/kaCLXw==&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <path d="M 119.84 60 L 119.31 158.21" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 119.29 163.46 L 115.82 156.44 L 119.31 158.21 L 122.82 156.48 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 14 L 0 0 L 40 0 L 40 14 M 0 14 L 240 14 L 240 60 L 0 60 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 35px; margin-left: 120px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap; ">
+                                com.juvenxu.mvnbook.account.web
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="120" y="39" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    com.juvenxu.mvnbook.account.web
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 14 L 350 0 L 390 0 L 390 14 M 350 14 L 590 14 L 590 60 L 350 60 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 35px; margin-left: 470px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap; ">
+                                <span style="text-align: left">
+                                    com.juvenxu.mvnbook.account.persist
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="470" y="39" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    com.juvenxu.mvnbook.account.persist
+                </text>
+            </switch>
+        </g>
+        <path d="M 172.08 163.02 L 344.8 40.68" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 349.09 37.65 L 345.4 44.55 L 344.8 40.68 L 341.35 38.84 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 171.12 212.58 L 344.5 313.79" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 349.03 316.44 L 341.22 315.93 L 344.5 313.79 L 344.75 309.88 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 240 187 L 343.63 187" fill="none" stroke="#000000" stroke-miterlimit="10" stroke-dasharray="3 3" pointer-events="stroke"/>
+        <path d="M 348.88 187 L 341.88 190.5 L 343.63 187 L 341.88 183.5 Z" fill="#000000" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 0 164 L 0 150 L 40 150 L 40 164 M 0 164 L 240 164 L 240 210 L 0 210 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 185px; margin-left: 120px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap; ">
+                                <span style="text-align: left">
+                                    com.juvenxu.mvnbook.account.service
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="120" y="189" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    com.juvenxu.mvnbook.account.service
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 164 L 350 150 L 390 150 L 390 164 M 350 164 L 590 164 L 590 210 L 350 210 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 185px; margin-left: 470px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap; ">
+                                <span style="text-align: left">
+                                    com.juvenxu.mvnbook.account.captcha
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="470" y="189" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    com.juvenxu.mvnbook.account.captcha
+                </text>
+            </switch>
+        </g>
+        <path d="M 350 294 L 350 280 L 390 280 L 390 294 M 350 294 L 590 294 L 590 340 L 350 340 Z" fill="#ffffff" stroke="#000000" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject style="overflow: visible; text-align: left;" pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 315px; margin-left: 470px;">
+                        <div style="box-sizing: border-box; font-size: 0; text-align: center; ">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: #000000; line-height: 1.2; pointer-events: all; font-weight: bold; white-space: nowrap; ">
+                                <span style="text-align: left">
+                                    com.juvenxu.mvnbook.account.email
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="470" y="319" fill="#000000" font-family="Helvetica" font-size="12px" text-anchor="middle" font-weight="bold">
+                    com.juvenxu.mvnbook.account.email
+                </text>
+            </switch>
+        </g>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Viewer does not support full SVG 1.1
+            </text>
+        </a>
+    </switch>
+</svg>

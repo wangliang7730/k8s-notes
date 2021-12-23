@@ -1,0 +1,121 @@
+---
+title: 第5章 详细解说GitHub的功能
+hidden: true
+---
+
+# 第5章 详细解说GitHub的功能
+
+- [ ] 5.1 键盘快捷键
+- [ ] 5.2 工具栏
+  - 关于UI
+    - ①LOGO
+    - ②Notifications
+    - ③搜索窗口
+    - ④Explore
+    - ⑤Gist
+    - ⑥Blog
+    - ⑦Help
+    - ⑧头像、用户名
+    - ⑨Create a new...
+    - ⑩Account settings
+    - ⑪Sign out
+- [ ] 5.3 控制面板
+  - 关于UI
+    - ①News Feed
+    - ②Pull Requests
+    - ③Issues
+    - ④Stars
+    - ⑤Broadcast
+    - ⑥Repositories you contribute to
+    - ⑦Your Repositories
+- [ ] 5.4 个人信息
+  - 关于UI
+    - ①用户信息
+    - ②Popular Repositories
+    - ③Repositories contributed to
+    - ④Public contributions
+    - ⑤Contribution Activity
+    - ⑥Repositories
+    - ⑦Public Activity
+- [ ] 5.5 仓库
+  - 关于UI
+    - ①用户名（组织名）/仓库名
+    - ②Watch/Star/Fork
+    - ③Code
+    - ④Issue
+    - ⑤Pull Requests
+    - ⑥Wiki
+    - ⑦Pulse
+    - ⑧Graphs
+    - ⑨Network
+    - ⑩Settings
+    - ⑪SSH clone URL
+    - ⑫Clone in Desktop
+    - ⑬Download ZIP
+    - a commits
+    - b branches
+    - c releases
+    - d contributors
+    - e Compare & review
+    - f branch
+    - g path
+    - h Fork this project and Create a new file
+    - i files
+  - 文件的相关操作
+    - 专栏：通过部分名称搜索文件
+  - 查看差别
+    - 查看分支间的差别
+    - 查看与几天前的差别
+    - 查看与指定日期之间的差别
+- [ ] 5.6 Issue
+  - 简洁且表现力丰富的描述方法
+    - 语法高亮
+    - 添加图片
+  - 添加标签以便整理
+  - 添加里程碑以便管理
+    - 专栏：了解贡献时的规则！
+  - Tasklist语法
+  - 通过提交信息操作Issue
+    - 在相关Issue中显示提交
+    - Close Issue
+  - 将特定的Issue转换为Pull Request
+- [ ] 5.7 Pull Request
+  - 专栏：获取diff格式与patch格式的文件
+  - Conversation
+    - 专栏：引用评论
+  - Commits
+    - 专栏：在评论中应用表情
+  - Files Changed
+- [ ] 5.8 Wiki
+  - Pages
+  - History
+    - 专栏：在Wiki中显示侧边栏
+- [ ] 5.9 Pulse
+  - active pull requests
+  - active issue
+  - commits
+  - Releases published
+  - Unresolved Conversations
+- [ ] 5.10 Graphs
+  - Contributors
+  - Commit Activity
+  - Code Frequency
+  - Punchcard
+- [ ] 5.11 Network
+- [ ] 5.12 Settings
+  - Options
+    - ①Settings
+    - ②Features
+    - ③GitHub Pages
+    - ④Danger Zone
+  - Collaborators
+  - Webhooks & Services
+  - Deploy Keys
+- [ ] 5.13 Notifications
+- [ ] 5.14 其他功能
+  - GitHub Pages
+  - GitHub Jobs
+  - GitHub Enterprise
+  - GitHub API
+- [ ] 5.15 小结
+  - 专栏：在Mac的通知中心查看GitHub的Notifications
