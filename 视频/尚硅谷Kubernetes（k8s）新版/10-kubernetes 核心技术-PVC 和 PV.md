@@ -138,6 +138,38 @@ Kubernetes 管理员可以指定在节点上为挂载持久卷指定挂载选项
 
 命令行会显示绑定到 PV 的 PVC 的名称。
 
+# 持久化演示说明 - NFS 
+
+## Ⅰ、安装 NFS 服务器
+
+```bash
+yum install -y nfs-common nfs-utils  rpcbind
+mkdir /nfsdata
+chmod 666 /nfsdata
+chown nfsnobody /nfsdata
+vim /etc/exports
+# 写入下面内容,表示该目录是挂在nfs挂在目录，后面是权限信息
+/nfsdata *(rw,no_root_squash,no_all_squash,sync)
+# 启动rpcbind
+systemctl start rpcbind
+# 启动nfs
+systemctl start nfs
+# 在每一个节点执行命令安装nfs客户端
+yum -y install nfs-utils rpcbind
+# 查看挂在环境
+[root@master01 test]# showmount -e 192.168.1.105
+Export list for 192.168.1.105:
+/nfsdata *
+# 挂在目录 将节点的/test/ 目录挂在到192.168.1.105:/nfsdata目录
+[root@master01 test]# mount -t nfs 192.168.1.105:/nfsdata /test/
+# 删除挂在目录
+[root@master01 test]# umount /test/
+```
+
+![img](https://img-blog.csdnimg.cn/20200209204222455.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2hlaWFuXzk5,size_16,color_FFFFFF,t_70)
+
+NFS已经成功了
+
 
 ## 5 演示：创建 PV
 
