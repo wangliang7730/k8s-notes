@@ -40,6 +40,10 @@ YWRtaW4=
 
 $ echo -n "1f2d1e2e67df" | base64
 MWYyZDFlMmU2N2Rm
+
+#解密
+$ echo -n "1f2d1e2e67df" | base64 -d
+admin
 ```
 
 ### 4.2 secrets.yml
