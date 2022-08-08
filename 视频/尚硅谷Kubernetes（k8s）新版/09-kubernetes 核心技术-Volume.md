@@ -48,6 +48,19 @@ spec:
       path: /data
       # directory location on host
 ```
+type 字段支持以下值：
+
+|值|	行为|
+|---|---|
+||空字符串（默认）用于向后兼容，这意味着在挂载 hostPath 卷之前不会执行任何检查。|
+|DirectoryOrCreate|	如果在给定的路径上没有任何东西存在，那么将根据需要在那里创建一个空目录，权限设置为 0755，与 Kubelet 具有相同的组和所有权。|
+|Directory|	给定的路径下必须存在目录|
+|FileOrCreate|	如果在给定的路径上没有任何东西存在，那么会根据需要创建一个空文件，权限设置为 0644，与 Kubelet 具有相同的组和所有权。
+|File|	给定的路径下必须存在文件
+|Socket|	给定的路径下必须存在 UNIX 套接字
+|CharDevice|	给定的路径下必须存在字符设备
+|BlockDevice	|给定的路径下必须存在块设备
+
 
 ## 4 nfs
 
