@@ -1,3 +1,4 @@
+##### 注意DashBoard版本和kubenetes版本对应  https://github.com/kubernetes/dashboard/releases?page=2 
 之前在kubernetes中完成的所有操作都是通过命令行工具kubectl完成的。其实，为了提供更丰富的用户体验，kubernetes还开发了一个基于web的用户界面（Dashboard）。用户可以使用Dashboard部署容器化的应用，还可以监控应用的状态，执行故障排查以及管理kubernetes中各种资源。
 
 ## 10.1 部署Dashboard
